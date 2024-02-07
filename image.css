@@ -1,5 +1,5 @@
 body {
-    background-image: url('background_image.jpg');
+    background-image: url('DccTeam/background_image.jpg');
     background-size: cover;
-    background-position: center;
+    background-repeat: no-repeat;
 }
