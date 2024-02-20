@@ -12,5 +12,4 @@ body, html {
     background-image: url('image.jpg'); /* Замените 'фоновая_картинка.jpg' на название вашей картинки */
     background-size: cover;
     background-position: center;
-    color: white; /* Цвет текста */
 }
