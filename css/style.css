@@ -1,1 +1,16 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
 
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-image: url('image.jpg'); /* Замените 'фоновая_картинка.jpg' на название вашей картинки */
+    background-size: cover;
+    background-position: center;
+    color: white; /* Цвет текста */
+}
